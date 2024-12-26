@@ -14,7 +14,8 @@ The todo-list application consists of two main elements:
    - two additional buttons:
       - the first button hides or shows completed tasks
       - the second button marks all tasks as completed
-    these buttons follow these rules:
+
+these buttons follow these rules:
     - if the task list is empty, the buttons are not displayed
     - if all tasks are completed, the second button becomes disabled.     
 
